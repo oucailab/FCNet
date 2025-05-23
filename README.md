@@ -107,3 +107,16 @@ We also provide details for evaluating the model in `model_result_analysis.ipynb
 If you have any questions, feel free to contact us via Email:  
 📧 Feng Gao: gaofeng@ouc.edu.cn  
 📧 Jialiang Zhang: zhangjia_liang@foxmail.com  
+We hope FCNet helps your research! ⭐ If you find our work useful, please cite:
+```
+@ARTICLE{10976656,
+  author={Zhang, Jialiang and Gao, Feng and Gan, Yanhai and Dong, Junyu and Du, Qian},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={Frequency-Compensated Network for Daily Arctic Sea Ice Concentration Prediction}, 
+  year={2025},
+  volume={63},
+  number={},
+  pages={1-15},
+  keywords={Sea ice;Feature extraction;Arctic;Frequency-domain analysis;Predictive models;Adaptive filters;Numerical models;Biological system modeling;Information filters;Data models;Arctic sea ice prediction;deep learning;frequency compensation;sea ice concentration (SIC);spatial-temporal attention},
+  doi={10.1109/TGRS.2025.3564457}}
+```
